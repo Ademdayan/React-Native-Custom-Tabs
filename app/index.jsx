@@ -5,7 +5,7 @@ import ColorList from '../components/ColorList'
 const Home = () => {
   return (
     <View>
-     <ColorList color='#0891b2' />
+      <ColorList color="#0891b2" />
     </View>
   )
 }
